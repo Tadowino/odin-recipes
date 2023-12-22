@@ -1,0 +1,28 @@
+body{
+    background-color: olive;
+}
+.heading-1,.tour-heading,.beef-heading,.sal-heading{
+    font-family: monospace;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+li > a {
+    color: white;
+}
+h2{
+    color: white;
+    font-size: 50px;
+}
+.lists{
+   color: black;
+   font-weight: 800;
+   font-size: 25px;
+}
+.description{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+
+
